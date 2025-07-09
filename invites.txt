@@ -1,2 +1,3 @@
 61374648,C:\Users\eyesd\AppData\Roaming\MetaQuotes\Terminal\73B7A2420D6397DFF9014A20F1201F97
 11299028,C:\Users\justi\AppData\Roaming\MetaQuotes\Terminal\89FE26BBBAB28C077BBF5FA8C1B4DF1C
+11386641,C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\89FE26BBBAB28C077BBF5FA8C1B4DF1C
