@@ -7,3 +7,4 @@
 11454187,C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\89FE26BBBAB28C077BBF5FA8C1B4DF1C
 11468102,C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\89FE26BBBAB28C077BBF5FA8C1B4DF1C
 51260816,C:\Users\eyesd\AppData\Roaming\MetaQuotes\Terminal\73B7A2420D6397DFF9014A20F1201F97
+11510588,C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\FEE28C798DA2CB40E11225C63BB2B3AA
