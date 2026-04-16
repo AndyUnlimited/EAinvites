@@ -23,4 +23,4 @@
 11782541,C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\FEE28C798DA2CB40E11225C63BB2B3AA
 389790,C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\59C07D676775FCCF79E223EC24AB0D86
 11820238,C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\FEE28C798DA2CB40E11225C63BB2B3AA
-11874279,C:\Users\Administrator\AppData\Roaming\MetaQuotes\TerminaNFEE28C798DA2CB40E11225C63BB2B3AA
+11874279,C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\FEE28C798DA2CB40E11225C63BB2B3AA
