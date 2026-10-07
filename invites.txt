@@ -16,6 +16,9 @@
 389790,C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\59C07D676775FCCF79E223EC24AB0D86
 11893845,C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\FEE28C798DA2CB40E11225C63BB2B3AA
 12051197,C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\FEE28C798DA2CB40E11225C63BB2B3AA
+#pepperstone my laptop added oct 6 2026
 4b1765514d4a2c27c2a8d3a33fd9764189077e5222a8426a38c335e46610d85d
 #dwyane added oct 6 2026
 d73376381665db927d4cdac9b4137b1765b1e9f989f635af4407c030cc6f8da6
+#myVPS added oct 2026
+ecde4049f006b6b625abad6728630c8bdd9d2d2d86785d71c66b3cf6e77ef4ca
